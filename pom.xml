@@ -11,6 +11,8 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
+      <packaging>war</packaging>
+      <name>App</name>
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
